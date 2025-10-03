@@ -370,7 +370,7 @@ def render_svm(n_samples, svm_kernel, svm_c, svm_gamma, svm_degree, noise_factor
 # --- MAIN APPLICATION LOGIC ---
 
 def main():
-    st.title("🧠 Interactive ML Algorithm Visualizer (3D)")
+    st.title("Interactive ML Algorithm Visualizer (3D)")
     st.markdown("Use the sidebar to select an algorithm and adjust its parameters.")
 
     # 1. Sidebar Navigation
