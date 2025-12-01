@@ -14,7 +14,6 @@ st.set_page_config(
     initial_sidebar_state="expanded"
 )
 
-# --- CONSTANTS AND ALGORITHM MAPPING ---
 
 ALGORITHMS = {
     "Regression": {
